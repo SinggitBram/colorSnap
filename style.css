@@ -1,0 +1,56 @@
+html, body {
+    height : 100%
+}
+body {
+    text-align: center;
+} 
+.kotak{
+    width : 300px;
+    height : 300px;
+    margin: 10px auto;
+    border: solid;
+    background-color: none;
+    margin-bottom: 60px;
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+h1 {
+    margin-bottom: 20px;
+    margin-top: 20px; 
+    font-size: 200px;
+    font-family: Comic Sans MS;
+}
+
+#tombolMulai {
+    background-color: black;
+    border: solid;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 70px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#tombolStop {
+    background-color: black;
+    border: solid;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 70px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+#skor {
+    float: left;
+    font-size: 50px;
+    text-align: center;
+    margin-left: 100px;
+    margin-top: 20px;
+    font-family: Comic Sans MS;
+}
